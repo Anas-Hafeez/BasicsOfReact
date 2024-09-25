@@ -1,0 +1,10 @@
+#slide1, #slide2,#slide3{
+ height: 500px;
+}
+#heading{
+  background: linear-gradient(90deg,orange,orangered,orange);
+  color: black;
+}
+#back{
+  background:linear-gradient(90deg,beige,orange,beige,orange,beige) ;
+}
